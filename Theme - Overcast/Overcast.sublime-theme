@@ -365,7 +365,7 @@
     {
         "class": "quick_panel",
         "row_padding": [2, 1],
-        "layer0.tint": [255, 0, 0],
+        "layer0.tint": [80, 80, 80],
         "layer0.opacity": 1.0,
         "dark_content": false
     },
@@ -436,7 +436,7 @@
 
     {
         "class": "sheet_container_control",
-        "layer0.tint": [255, 0, 0],
+        "layer0.tint": [80, 80, 80],
         "layer0.opacity": 1.0
     },
 

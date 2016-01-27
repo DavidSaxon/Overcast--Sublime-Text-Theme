@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Allan Odgaard</string>
+	<string>David Saxon</string>
 	<key>comment</key>
-	<string>Inspired by the original 8 MagicWB colors from Martin Huttenloher</string>
+	<string>A low contrast grey colour scheme</string>
 	<key>name</key>
 	<string>MagicWB (Amiga)</string>
 	<key>settings</key>

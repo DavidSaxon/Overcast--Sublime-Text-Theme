@@ -1,7 +1,7 @@
 # Overcast
 ## A Sublime Text Theme
 
-A low contrast grey colour scheme and UI theme for Sublime Text. 2.
+A low contrast grey colour scheme and UI theme for Sublime Text.
 
 ![](https://i.imgur.com/85L5NBy.png)
 
